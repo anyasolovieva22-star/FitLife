@@ -33,7 +33,7 @@ class Info:
     """
 
 
-print(f"Отлично, {user_name.title()}!")
+print(f"Отлично, {user_name}!")
 print('Мы уже на половине пути к твоей цели!')
 print("\n")
 user_weight = (input('Для нужных расчетов, укажи свой вес, в (кг): '))
